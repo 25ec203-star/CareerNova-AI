@@ -1,0 +1,6 @@
+{
+  "name": "CareerNova AI",
+  "description": "An Adaptive AI-Powered Placement Preparation and Career Intelligence Platform featuring 3D visual intelligence, real placement assessments, coding arena, and resume analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
